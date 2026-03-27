@@ -18,6 +18,7 @@ Read first:
 Read workspace if available:
 - `workspace/ads/account.md`
 - `workspace/ads/goals.md`
+- `workspace/ads/brand-context.md` — product, audience, and positioning context for classifying which search terms are relevant vs waste for this specific business
 - `workspace/ads/intent-map.md`
 - `workspace/ads/queries.md`
 - `workspace/ads/negatives.md`

@@ -18,6 +18,7 @@ Read first:
 Read workspace if available:
 - `workspace/ads/account.md`
 - `workspace/ads/goals.md`
+- `workspace/ads/brand-context.md` — voice, tone, USPs, and messaging hooks for writing RSA copy that matches the brand
 - `workspace/ads/intent-map.md`
 - `workspace/ads/queries.md`
 - `workspace/ads/winners.md`

@@ -17,6 +17,7 @@ Read first:
 Read workspace if available:
 - `workspace/ads/account.md`
 - `workspace/ads/goals.md`
+- `workspace/ads/brand-context.md` — product, audience, and positioning context for classifying buyer intent correctly for this product/market
 - `workspace/ads/intent-map.md`
 - `workspace/ads/queries.md`
 - `workspace/ads/winners.md`

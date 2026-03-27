@@ -183,7 +183,7 @@ Before deep analysis, gather or extract:
 5. Available data: connected mode or export (search terms report, campaign export, screenshots, tracking notes)
 
 If the user already gave context, do not re-ask it.
-If `workspace/ads/account.md` and `workspace/ads/goals.md` exist, load them — context may already be captured.
+If `workspace/ads/account.md`, `workspace/ads/goals.md`, and `workspace/ads/brand-context.md` exist, load them — context may already be captured. Brand context is especially important for intent classification, RSA copy direction, and negative keyword decisions.
 
 ## Query Interview Lens
 Always ask:
@@ -202,6 +202,7 @@ Key files:
 |------|---------|
 | `account.md` | Account identity, customer ID, business context |
 | `goals.md` | KPIs, targets, what success looks like |
+| `brand-context.md` | Brand identity, USPs, personas, voice, unit economics — informs intent classification, RSA copy, and negative decisions |
 | `intent-map.md` | Durable model of search intent classes |
 | `queries.md` | Notable query patterns and clusters |
 | `negatives.md` | Active and proposed negative keywords |
